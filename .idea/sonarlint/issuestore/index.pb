@@ -9,3 +9,7 @@ R
 "tests/citizen-verification.test.ts,b/a/ba63301ee173d9662d9cbbb634c6d6dffa06fb87
 Q
 !tests/credential-issuance.test.ts,8/a/8a655c35c0ef4977814e5de81eea3103aaff30f0
+M
+contracts/service-access.clar,6/9/697ba7a046d21468c6aeb04544ebf750f0855804
+L
+tests/service-access.test.ts,5/8/58e65724d7e53e2e2cfa485773e1983af6a93149
